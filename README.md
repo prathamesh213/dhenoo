@@ -1,3 +1,3 @@
 # dhenoo
-Redesigning dhenooapp
+Full Stack dhenooapp
 Author: Prathamesh Pawar
