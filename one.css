@@ -1,0 +1,80 @@
+#bunch{
+    position: absolute;
+    top: 0px;
+    left: 0px;   
+}
+#topstuff{
+    position: static;
+}
+#grad{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 150px;
+    width: 1600px;
+    opacity: 90%;
+    rotate: 180deg;
+} 
+#logo{
+    position: absolute;   
+    width: 300px;
+    padding-left: 1px;
+     
+}
+
+#Products{
+    position: absolute;
+    top: 50px;
+    left: 900px;
+     width: 20px;
+     height: 20px;
+     
+}
+#Services{
+    position: absolute;
+    top: 50px;
+    left: 1053px;
+     width: 20px;
+     height: 20px;
+}
+#Testimonials{
+  
+        position: absolute;
+        top: 50px;
+        left: 1200px;
+         width: 20px;
+         height: 20px;
+    
+}
+#Contact{
+    position: absolute;
+    top: 50px;
+    left: 1400px;
+     width: 20px;
+     height: 20px;
+}
+#boxleft{
+        position: absolute;
+        width: 300px;
+        height: 500px;
+        right: 0px;
+        top: 400px;
+        border: 5px solid rgb(0, 0, 0);
+        border-radius: 25px;
+        background-color: bisque;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size: 34px;
+       
+   
+}
+#WAREW{
+    position: absolute;
+    top: 580px;
+
+    font-size: 90px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 2000;
+    color: greenyellow;
+    background-color: black;
+    border-radius: 25PX;
+}
